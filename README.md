@@ -4,7 +4,7 @@
 
 You will have to post an image to the docker hub. When we run:
 
-docker run <seu-user>/codeeducation
+docker run your-user/codeeducation
 
 We have to have the following result: Code.education Rocks!
 
